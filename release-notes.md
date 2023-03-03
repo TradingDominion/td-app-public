@@ -1,4 +1,4 @@
-#### 2023-02-26:
+#### 2023-03-02:
 - version 1.02 released
 - multiple bugfixes
 - redesigned sidebar
